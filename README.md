@@ -1,6 +1,7 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://affansayed7.io)
 <h1 align="center">Hi 👋, I'm Affan Sayed</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<img align='right' alt='Coding' widht=100 src='https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif'>
+<img align='right' alt='Coding' width='350' src='https://noclinks.net/assets/img/softwaredev.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affansayed7&label=Profile%20views&color=0e75b6&style=flat" alt="affansayed7" /> </p>
 
