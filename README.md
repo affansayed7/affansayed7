@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **python, Django, R**
 
-- 📫 How to reach me **affansayed36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
